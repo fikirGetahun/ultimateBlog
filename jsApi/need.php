@@ -30,7 +30,7 @@ if(isset($_POST['appendName'], $_POST['id'])){
       
       
     }
-
+    // first stage is done now it only remains code cleaning and clear mannaging system.. and as well as bootstrap tepletes to choose and mangeing how to swap from one template to another one
 
 
 
